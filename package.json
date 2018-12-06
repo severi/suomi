@@ -1,6 +1,6 @@
 {
   "name": "suomi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Finnish language generation helpers",
   "main": "src/index.js",
   "scripts": {
